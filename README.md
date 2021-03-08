@@ -70,7 +70,7 @@ if pip doesn't work for you, just try `pip3` instead of `pip`
 ├── <b>models</b> : It contains all ML files
 │ ├── <b>classifier.pkl</b> : classifier produced by train_classifier file
 │ └── <b>train_classifier.py</b> : ML pipeline classification code
-└── <b>requirements.txt
+└── <b>requirements.txt</b>
  </code>
 </pre>
 
