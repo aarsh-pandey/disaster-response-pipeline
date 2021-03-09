@@ -11,6 +11,9 @@ warnings.filterwarnings('ignore')
 import pandas as pd
 
 # NLTK Libraries
+import nltk
+nltk.download(['punkt','stopwords','wordnet'])
+
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem import PorterStemmer
